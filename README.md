@@ -1,4 +1,4 @@
-# Roblox Development
+# <img src="https://raw.githubusercontent.com/AndrejRodic/AndrejRodic/main/assets/project-icons/roblox.svg" width="32" height="32" alt="" /> Roblox Development
 
 I helped lead a small coding team building reusable Roblox game templates and contributed to a separate catalog of asset packs.
 
@@ -13,11 +13,9 @@ I worked with a three-person coding team inside a five-person studio. I helped p
 
 These figures describe two different groups of games and are team or downstream results, not a claim that I built or operated every finished game.
 
-## Technology and links
+## Technology
 
 **Technology:** Luau, Roblox Studio, player-data persistence, NPC systems, reusable UI, and mobile controls.
-
-**Games:** Links can be added after I confirm which released experiences used the templates.
 
 <details>
 <summary>Engineering notes</summary>
